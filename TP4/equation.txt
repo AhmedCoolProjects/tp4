@@ -1,0 +1,5 @@
+la seule solution de 1x²+2x+1= 0 est :-1.0 pour delta = 0
+les deux solutions de 5x²+8x+1= 0 dans R sont: -36.583123951777 -3.416876048223001 pour delta = 44
+la solution de 0x²+5x+8= 0 est: -1.6
+la seule solution de 1x²+4x+4= 0 est :-2.0 pour delta = 0
+pas de solutions de 4x²+5x+12= 0 dans R, pour delta = -167

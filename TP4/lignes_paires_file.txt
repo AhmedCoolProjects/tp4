@@ -1,0 +1,8 @@
+L’utilisation des radars navals provoque plusieurs problèmes,
+#des créatures marines utilisant des ondes sonores. Pour une raison 
+navals par un satellite surveillant l’entourage des navires?
+#PHYSIQUE (physique ondulatoire).
+#+Faire une étude descriptive du fonctionnement des radars navals.
+#les passagers, les créatures maritimes..).
++Expliquer le mode Émission- Réception des satellites radar aves les navires pour garantir
++Étudier l’efficacité de cette solution et sa possibilité d’être appliquer sur la réalité.

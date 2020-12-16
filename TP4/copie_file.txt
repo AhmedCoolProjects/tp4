@@ -1,0 +1,16 @@
+1/ PROBLEMATIQUE :
+2/ L’utilisation des radars navals provoque plusieurs problèmes,
+3/ soit au niveau de la santé humaine, soit au niveau de la vie
+4/ #des créatures marines utilisant des ondes sonores. Pour une raison 
+5/ de dépasser ces problèmes, comment on peut remplacer ces radars
+6/ navals par un satellite surveillant l’entourage des navires?
+7/ SCIENCES  INDUSTRIELLES (traitement du signal).
+8/ #PHYSIQUE (physique ondulatoire).
+9/ Les objectifs tipe:
+10/ #+Faire une étude descriptive du fonctionnement des radars navals.
+11/ +Mettre en exergue les dangers de ces radars sur la santé des êtres vivants (les gens de la marine,
+12/ #les passagers, les créatures maritimes..).
+13/ +Présenter les satellites radar comme une solution pratique pour éviter tout les dangers cités précédemment.
+14/ +Expliquer le mode Émission- Réception des satellites radar aves les navires pour garantir
+15/ #une détection sans affecter les être vivant.
+16/ +Étudier l’efficacité de cette solution et sa possibilité d’être appliquer sur la réalité.

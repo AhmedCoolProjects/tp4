@@ -1,0 +1,6 @@
+file_name = str(input('Enter the file name you want to create : '))
+f = open(file_name+'.txt', 'w')
+content = str(input('Please enter a text : '))
+f.write(content)
+f.close()
+print('File Saved')
