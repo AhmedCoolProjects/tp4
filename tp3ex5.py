@@ -1,0 +1,9 @@
+s = list(map(int, input('enter 2 numbers please ').split()))
+b = max(s[0], s[1])
+a = min(s[1], s[0])
+r = 0
+while b%a != 0:
+	r = b%a
+	b = a
+	a = r
+print('pgcd(',s[0],',',s[1],') = ',a)
